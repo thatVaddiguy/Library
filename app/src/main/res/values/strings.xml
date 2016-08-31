@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="search">Search</string>
+    <string name="Enter">Enter a valid book or author</string>
+</resources>
